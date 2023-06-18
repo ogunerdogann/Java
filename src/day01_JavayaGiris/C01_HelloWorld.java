@@ -2,7 +2,7 @@ package day01_JavayaGiris;
 
 public class C01_HelloWorld {
     public static void main(String[] args) {
-       // aciklama satiri bu sekilde yapiliyor!!
+       // aciklama satiri bu sekilde yapiliyor!!!
 
         /*
 
