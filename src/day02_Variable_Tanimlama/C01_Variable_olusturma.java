@@ -36,7 +36,7 @@ public class C01_Variable_olusturma {
 
         /*
         Float virgülden sonra 6-7 tane basamak yazdirir. Double dan farkli oldugunu belirtmek icin
-        sonuna f ya da F yazmamiz icab eder.
+        sonuna f ya da F yazmamiz gerekir.
 
          */
 
